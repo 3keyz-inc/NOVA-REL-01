@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this research protocol, please cite this repository and its versioned release. A DOI will be added only after Zenodo issues one."
+title: "NOVA-REL-01: Adversarial Verification of Relational Continuity — E0 Research Protocol"
+type: software
+authors:
+  - family-names: Primeaux
+    given-names: Stephen Paul
+    name-suffix: Jr.
+repository-code: "https://github.com/3keyz-inc/NOVA-REL-01"
+url: "https://github.com/3keyz-inc/NOVA-REL-01"
+date-released: 2026-11-01
+version: "1.0.0-e0"
+abstract: "A falsifiable research protocol for testing preservation of human authorization, correction precedence, and recovery integrity under coordinated rollback and other adversarial failures. No independent validation is claimed."
